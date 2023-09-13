@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Tutorial belajar VueJS",
+        "tags": ["vue", "frontend"],
+        "date": "2023-09-03",
+        "isNew": true
+    },
+    {
+        "title": "Meningkatkan performa VueJS",
+        "tags": ["vue", "frontend"],
+        "date": "2023-09-04",
+        "isNew": false
+    },
+    {
+        "title": "Menggunakan framework bootstrap",
+        "tags": ["vue", "css"],
+        "date": "2023-09-05",
+        "isNew": false
+    }
+]
